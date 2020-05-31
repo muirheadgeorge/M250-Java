@@ -1,2 +1,5 @@
-# M250-Java
-The Open University Java M250 Module
+# hello-world
+
+My first repository using Github from BlueJ !!!
+
+I love :coffee: :pizza:, and :dancer:.
